@@ -2,7 +2,8 @@
 Includes files for making a 3x3x3 RGB LED Cube using an Arduino Nano
 
 Demonstration video: https://youtube.com/shorts/C2eLcx-cNgA     
-For more information about building the cube check out my webpage here: https://sunset-chauffeur-cd5.notion.site/3x3x3-RGB-LED-Cube-07d46bf612e04ef2acec1c6f2c6ef6c8
+For more information about building the cube check out my webpage here:     
+https://sunset-chauffeur-cd5.notion.site/3x3x3-RGB-LED-Cube-07d46bf612e04ef2acec1c6f2c6ef6c8
 
 Files included:
 - 3X3X3_RGB.fzz - Fritzing Diagram showing all connections and PCB routing
