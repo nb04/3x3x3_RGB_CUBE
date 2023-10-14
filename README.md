@@ -1,5 +1,5 @@
 # 3x3x3_RGB_CUBE
-Includes files for making a 3x3x3 RGB LED Cube using an Arduino Nano
+Includes files for making a 3x3x3 RGB LED Cube using an Arduino Nano. If this interests you I encourage you to try making your own, I have the provided files I used along with documentation on my website to assist anyone in building their own.  
 
 Demonstration video: https://youtube.com/shorts/C2eLcx-cNgA       
 
